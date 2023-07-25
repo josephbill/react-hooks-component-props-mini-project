@@ -24,11 +24,7 @@
     "test": "echo \".results.json\" && react-scripts test --reporters=@learn-co-curriculum/jest-learn-reporter --reporters=default --watchAll",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
-  },
+
   "browserslist": {
     "production": [
       ">0.2%",
